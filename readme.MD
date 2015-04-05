@@ -11,9 +11,10 @@ I was faced with the proposition of either restoring my WordPress install to sub
 
 And here we are.
 
-## Setup
+## Reqs
 
-This script requires that you `gem install mysql2`.
+* Ruby 2.0.0+
+* mysql2
 
 ## Config
 
